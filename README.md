@@ -2,7 +2,7 @@
 
 If you would like to see how the data is processed please visit the https://github.com/avyayv/ShotDeterminantsData.
 
-You can simply run the `Train.ipynb` notebook, which will handle the training of the XGBoost model directly from the output of the DataProcessing notebook. The output of the DataProcessing notebook is a part of the repository already, so it is unnescassary to run it again, unless you would simply like to reproduce the results.
+You can simply run the `Model.ipynb` notebook, which will handle the training of the XGBoost model directly from the output of the DataProcessing notebook. The output of the DataProcessing notebook is a part of the repository already, so it is unnescassary to run it again, unless you would simply like to reproduce the results.
 
 ## File Contents
 1. `trainXAll.csv`
@@ -16,6 +16,6 @@ You can simply run the `Train.ipynb` notebook, which will handle the training of
   
 All of the above files are generated using this repository https://github.com/avyayv/ShotDeterminantsData
 
-5. `Train.ipynb`
+5. `Model.ipynb`
   The actual model + interpretation of the model.
 
