@@ -1,5 +1,7 @@
 # ShotDeterminantsTrain
 
+Poster: http://www.stat.cmu.edu/cmsac/poster2020/posters/Varadarajan-NBAShotProb.pdf
+
 If you would like to see how the data is processed please visit the https://github.com/avyayv/ShotDeterminantsData.
 
 You can simply run the `Model.ipynb` notebook, which will handle the training of the XGBoost model directly from the output of the DataProcessing notebook. The output of the DataProcessing notebook is a part of the repository already, so it is unnescassary to run it again, unless you would simply like to reproduce the results.
